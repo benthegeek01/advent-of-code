@@ -5,30 +5,8 @@ As of right now, only 2023 in Python is being worked on.
 
 # Years
 <details>
-    <summary>2023</summary>
-    ## Python
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
-    [ ] Day 1
+  <summary>2023</summary>
+  
+  ## Python
+  - [ ] Day 1
 </details>
