@@ -8,10 +8,10 @@ As of right now, only 2023 in Python is being worked on.
   <summary>2023</summary>
   
   ## Python
-  - [X] __Day 1__
-  - [X] __Day 2__
-  - [X] __Day 3__
-  - [X] __Day 4__
+  - [X] [__Day 1__](2023/Python/day_1)
+  - [X] [__Day 2__](2023/Python/day_2)
+  - [X] [__Day 3__](2023/Python/day_3)
+  - [X] [__Day 4__](2023/Python/day_4)
   - [ ] Day 5
   - [ ] Day 6
   - [ ] Day 7
